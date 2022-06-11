@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Atakan from Turkey. I am a senior software engineering student. I am mostly interested with Android development. I really love Android development, and writing code with Kotlin and Java. I am also interested with back-end development.
+
+## Skills and Experience
+* Kotlin
+* Java
+* Android Jetpack Library
+* Python
+* HTML
+* CSS
+* Firebase
+* OneSignal
+* OOP
+
+![Atakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=atimadanoglu&hide=contribs,prs) 
