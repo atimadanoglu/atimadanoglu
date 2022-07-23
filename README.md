@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Atakan from Turkey. I am a senior software engineering student. I am mostly interested with Android development. I really love Android development, and writing code with Kotlin and Java. I am also interested with back-end development.
+I'm Atakan from Turkey. I am a senior software engineering student. I am mostly interested in Android development. I love Android development and writing code with Kotlin and Java. I am also interested in back-end development.
 
 ## Skills and Experience
 * Kotlin
