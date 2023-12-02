@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Atakan, and I am a senior software engineering student. I am passionate about Android development and enjoy coding with Java and Kotlin. Currently, I am working on developing a notebook app that is available on the Google Play Store. I have learned a lot from this project and am continually refining my skills to improve it further. I'm excited to use my skills in the software industry to help a company succeed and eager to explore new opportunities.
+My name is Atakan, and I am an Android Developer intern at Kariyer.net. I am passionate about Android development and enjoy coding with Java and Kotlin. Currently, I am working on developing a notebook app that is available on the Google Play Store. I have learned a lot from this project and am continually refining my skills to improve it further.
 
 - 🔭 I’m currently working on <a href="https://github.com/atimadanoglu/NotesApplication">My Notes app</a>
-- 🌱 I’m currently learning developing an Android app with Jetpack Compose
+- 🌱 I’m currently improving my skills in Jetpack Compose
 
 ## 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
 
@@ -29,18 +29,15 @@ My name is Atakan, and I am a senior software engineering student. I am passiona
 ## 📱 My Android Apps
 <code><a href="https://play.google.com/store/apps/developer?id=Atakan+M." target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-tile.svg"></a></code>
 
-## 💻 Skills and Experience 
+## 💻 Experience and knowledge in 
 * Kotlin
 * Java
 * Android Jetpack Libraries (Compose, ViewBinding, Room etc.)
-* Dependency Injection (Hilt)
-* Python
-* Firebase
-* OneSignal
+* Dependency Injection (Hilt, Koin)
+* Unit Testing
+* Mocking Frameworks (Mockito, MockK)
 * OOP
 * MVVM
-* Unit Testing
-* MockK
 * Truth Assertion Library
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
