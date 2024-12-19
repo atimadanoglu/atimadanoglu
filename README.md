@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Atakan, and I am an Android Developer intern at Kariyer.net. I am passionate about Android development and enjoy coding with Java and Kotlin. Currently, I am working on developing a notebook app that is available on the Google Play Store. I have learned a lot from this project and am continually refining my skills to improve it further.
+My name is Atakan, and I am an Android Developer at <a href="https://kariyer.net">Kariyer.net</a>. I am passionate about Android development and enjoy coding with Java and Kotlin. Currently, I am dedicated to improving my skills and knowledge in Jetpack Compose.
 
 - 🔭 I’m currently working on <a href="https://github.com/atimadanoglu/NotesApplication">My Notes app</a>
 - 🌱 I’m currently improving my skills in Jetpack Compose
@@ -32,13 +32,16 @@ My name is Atakan, and I am an Android Developer intern at Kariyer.net. I am pas
 ## 💻 Experience and knowledge in 
 * Kotlin
 * Java
-* Android Jetpack Libraries (Compose, ViewBinding, Room etc.)
+* Android Jetpack Libraries (Compose, ViewBinding, Room, ViewModel, LiveData etc.)
 * Dependency Injection (Hilt, Koin)
+* Coroutines
+* Retrofit
 * Unit Testing
 * Mocking Frameworks (Mockito, MockK)
 * OOP
 * MVVM
 * Truth Assertion Library
+* Firebase Services (Crashlytics etc.)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
